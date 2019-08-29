@@ -19,18 +19,18 @@ Table of Content
 # Wallets
 
 ## Hardware
-- [Ledger App](https://www.ledger.com/tezos-wallet/)
+- [Ledger Nano X](https://shop.ledger.com/products/ledger-nano-x)
 
 ## Desktop
 - [TezzerWallet](https://github.com/Tezzerwallet)
 - [BakeChain](https://bakechain.github.io/#home)
 - [Airgap](https://airgap.it/)
-- [Galleon](https://galleon-wallet.tech/)
 
 ## Web
 - [TezBox](https://tezbox.com/) (Desktop Too)
 - [Magnum Wallet](https://magnumwallet.co/)
 - [T3Wallet](https://magnumwallet.co/)
+- [SCL Wallet (testnet)](https://tw.smartcontractlabs.ee/)
 
 ## Mobile
 - [CorTez](https://play.google.com/store/apps/details?id=com.tezcore.cortez)
@@ -75,3 +75,4 @@ Table of Content
 ## Other Resources
 
 - [Tezos Stackexchange](https://tezos.stackexchange.com/questions)
+- [Tezos URI standard (payment requests)](https://gitlab.com/tips2/TIPs/blob/master/TIPS/tip-8.md) and a [library providing an easy way to add to apps and wallets](https://gitlab.com/smartcontractlabs/tezos-uri)
